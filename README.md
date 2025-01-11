@@ -4,7 +4,7 @@
 This project demonstrates a **Live Object Detection Alert System** designed to detect and alert users of specific objects (e.g., humans or animals) in restricted areas. The system leverages the **YOLOv8 model** for real-time object detection and includes an email alert mechanism for notification. The core objective of this project is to provide a proof-of-concept for deploying a robust detection system in real-world scenarios.
 
 > **Note**: This repository contains a **demo version** of the project. For demonstration purposes, we have used:
-> - A smaller dataset
+> - A smaller dataset (Where we made our own customed small dataset with help of the annotation tools e.g. roboflow, V7, Labelbox, Scale AI, SuperAnnotate, DataLoop, Playment, Supervise.ly, Hive Data, CVAT, LabelMe, Labelimg, VoTT, ImgLab)
 > - Fewer training epochs
 > to ensure faster training and testing. The actual project can be scaled with larger datasets and additional training epochs for enhanced performance.
 
