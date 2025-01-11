@@ -1,0 +1,5 @@
+train: C:/Users/sarow/OneDrive/Desktop/projects/dataset/images/train
+val: C:/Users/sarow/OneDrive/Desktop/projects/dataset/images/val
+
+nc: 2  # Number of classes
+names: ['human', 'animal']  # Class names
