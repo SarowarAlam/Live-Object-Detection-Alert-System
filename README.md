@@ -114,7 +114,12 @@ This project demonstrates a **Live Object Detection Alert System** designed to d
 We welcome contributions to enhance the project! Please submit a pull request or open an issue for suggestions.
 
 ---
+## Contact
+If you have any questions or need further assistance, please feel free to contact:
 
+- **Name**: Sarowar Alam
+- **Email**: sarowaralam40@gmail.com
+- **GitHub**: [https://github.com/SarowarAlam](https://github.com/SarowarAlam)
 
 
 
